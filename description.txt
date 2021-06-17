@@ -1,0 +1,7 @@
+						Description de la solution
+
+                    - Nous avons utilisé le php comme langage de programmation sur une interface web,
+         	    - La solution peut étre exécuter avec un serveur apache (XAMMP, WAMPP, Largon ...),
+                    - Dans un champ de saisir il faut renseigner nombre entre 0 et 20 (le nombre est soumis à une validation) puis valider,
+                    - le resultat est afficher tout en bas du formulaire en couleur verte.   
+  	
